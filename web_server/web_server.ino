@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <WiFi101.h>
 
-char ssid[] = "UPC2667976";
-char pass[] = "b6rafjMhtwwc";
+char ssid[] = "<SSID>";
+char pass[] = "<PASSWORD>";
 
 int LAMP_PIN = 7;
 
